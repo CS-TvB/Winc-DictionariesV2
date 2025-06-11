@@ -33,9 +33,9 @@ def add_biometric_data(big_brother_data_base, problem, value, date):
 
 big_brother_data_base = {}
 lst_countries = ['Greece', 'Scotland', 'Spain', 'France']
-name = 'Thomas van Boom'
-date_of_birth = '04-10-1996'
-place_of_birth = 'Rotterdam'
+name = 'Jhon Jones'
+date_of_birth = '06-08-1986'
+place_of_birth = 'Amsterdam'
 height = float(1.84)
 nationality = 'Netherlands'
 
